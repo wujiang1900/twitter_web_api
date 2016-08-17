@@ -1,0 +1,73 @@
+Please open the following URL from a browser and "Authorize app" access to your account:
+https://api.twitter.com/oauth/authorize?oauth_token=14Nn-gAAAAAAwa2TAAABVmY6lIM
+Enter the PIN that was displayed in the browser after the access is granted: 0625485
+**************************************************************************************
+*                                                                                    *
+* This program can search all tweets talking about a celebrity from a given location *
+* and present you top 10 tweets (based on favorite_count)                       *
+*                                                                                    *
+**************************************************************************************
+About whom would you like to search?: tom cruise
+Which location would you like to search?: dallas
+**************************************************************************************
+*                                                                                    *
+* The followings are the top 10 tweets (based on favorite_count)  about tom cruise  *
+*                                                                                    *
+**************************************************************************************
+
+@TomCruise My buddy @ShaunBolen and I yelled "TOM CRUISE" during our first bungee jump and free fall experience tonight!
+@ReverendDrDash my mother is a silver Soror and retired school teacher. She got this outfit from Chicos for a Tom Joyner cruise
+Where were y'all when Tom Cruise starred in The Last Samurai? Swear y'all just try to find racism where there isn't. https://t.co/5GV1FiMzfJ
+Tom Cruise (oops, I mean @zkirchin) is the ?. Embarrassing, proud coworker and friend over here!  https://t.co/GpE4zqw6Nq
+Y'all HAVE to see how cute I look when I'm listening to that Meagan Trainor song. MY LIFES A MOVIE, TOM CRUISE
+i want to live in the world that tom cruise doesnt exist in
+I just realized Tom Cruise is following me on Twitter...
+Tom Cruise is the groundhog. I'm waiting for Bill Murray #edgeoftomorrow #magicalgirlmovienight
+@EmKrKo @br_mcintire Well imma get back to watching tom cruise ?
+I see more of Tom Cruise in Suri, now that she's getting older. ? #TomCruise
+**************************************************************************************
+Would you like another search?[y or n]: 
+y
+About whom would you like to search?: jet li
+Which location would you like to search?: new york
+**************************************************************************************
+*                                                                                    *
+* The followings are the top 10 tweets (based on favorite_count)  about jet li  *
+*                                                                                    *
+**************************************************************************************
+
+I would watch a Great Wall movie starring Jet Li over Matt Damon any day. Would watch a Jet Li movie over any Matt Damon movie in general.
+Everybody go to Netflix and watch Jet Li's movies. They will change your life. @lylienkiet #martialarts #kidsfromshaolin
+@NewsdaySports @KMart_LI New #NYJETS RAP/ CHANT "JET ALL THE WAY UP !" https://t.co/qLIpbqslHf
+@michael_chien welcome jet li
+@MugenTalks Yep. I liked Riding Alone a lot and heard his stuff with Jet Li was ace. He's definitely earned his stripes by now.
+Ki Li? Jet Li? https://t.co/u147erZ2mp
+Jet Li* https://t.co/h7lBbOsp5O
+@Mala_Moot @itsBirchwood Yes, and I will someday soon become the One… What's that? Oh, nothing! I look nothing like Jet Li & idk kung fu
+RT @machiavellino: I would watch a Great Wall movie starring Jet Li over Matt Damon any day. Would watch a Jet Li movie over any Matt Damon…
+RT @normbnyc: @ajplus Matt Damon? They couldn't get Jet Li, Sho Koshugi, Ken Watanabe, Chow Yun-Fat to do the part? Gimmie a break.
+**************************************************************************************
+Would you like another search?[y or n]: 
+y
+About whom would you like to search?: bruce lee
+Which location would you like to search?: houston
+**************************************************************************************
+*                                                                                    *
+* The followings are the top 10 tweets (based on favorite_count)  about bruce lee  *
+*                                                                                    *
+**************************************************************************************
+
+The successful warrior is the average man with laser like focus. Bruce Lee
+I don't fear a man that practices 10,000 kicks but I fear a man that has practice 10,000 kicks 1st time.      -Bruce lee- ?????
+A quick temper will make a fool of you soon enough. Bruce Lee #Quotes
+Knowledge will give you power, but character respect. Bruce Lee #Quotes
+Wow. RT @Bruce_Cares That was horrible. Like wtf are they even trying? RT @_BrookieB_: The campaign made this????  https://t.co/Uk0rDPtI6N
+@fark Run in a straight line, don't scream and don't flail? Yeah, right. I'd become the Bruce Lee of bee killing
+"Don't get set into one form, adapt it and build your own, and let it grow, be like water." - Bruce Lee #BruceLee https://t.co/b9I6PTkvDJ
+Bruce Lee’s Never-Before-Seen Writings on Willpower, Emotion,… https://t.co/MMCfnvfNAI https://t.co/kTeuxHTMNx
+RT @BilleBaty: A wise man can learn more from a foolish question than a fool can learn from a wise answer. Bruce Lee #Quotes
+@Ju2Based the white man killed bruce lee
+**************************************************************************************
+Would you like another search?[y or n]: 
+
+Average time to retrieve all tweets (SINGLE THREAD) is 4.789 seconds.
